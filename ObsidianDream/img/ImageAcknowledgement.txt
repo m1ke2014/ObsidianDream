@@ -1,0 +1,39 @@
+<figure>
+  <img src="img/ID-10046633.jpg"
+ alt="Image courtesy of Worakit Sirijinda at FreeDigitalPhotos.net">
+  <figcaption>
+Image courtesy of Worakit Sirijinda at FreeDigitalPhotos.net<br /><br />
+</figcaption>
+</figure>
+
+<figure>
+  <img src="img/ID-100126763.jpg"
+ alt="Image courtesy of foto76 at FreeDigitalPhotos.net">
+  <figcaption>
+Image courtesy of foto76 at FreeDigitalPhotos.net<br /><br />
+</figcaption>
+</figure>
+
+<figure>
+  <img src="img/ID-10049301.jpg"
+ alt="Image courtesy of photostock at FreeDigitalPhotos.net">
+  <figcaption>
+Image courtesy of photostock at FreeDigitalPhotos.net<br /><br />
+</figcaption>
+</figure>
+
+<figure>
+  <img src="img/ID-100126174.jpg"
+ alt="Image courtesy of sattva at FreeDigitalPhotos.net">
+  <figcaption>
+Image courtesy of sattva at FreeDigitalPhotos.net<br /><br />
+</figcaption>
+</figure>
+
+<figure>
+  <img src="img/ID-10035197.jpg"
+ alt="Image courtesy of Sura Nualpradid at FreeDigitalPhotos.net">
+  <figcaption>
+Image courtesy of Sura Nualpradid at FreeDigitalPhotos.net<br /><br />
+</figcaption>
+</figure>
